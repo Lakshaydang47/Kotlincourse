@@ -18,5 +18,9 @@ fun main() {
 //    homework
 //    print age and fav no
 
+    val age = 21
+    val favoratenum = 18
+
+    println("My age is $age and my fav no is jearsy no. $favoratenum")
 
 }
